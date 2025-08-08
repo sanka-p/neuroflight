@@ -1,0 +1,4 @@
+PICO_SDK_PATH=$(PWD)/tools/pico/pico-sdk
+PATH=$(PWD)/bin:$PATH
+PICO_TOOLCHAIN_PATH=$(PWD)/bin
+PICO_RISCV_TOOLCHAIN_PATH=$(PWD)/bin

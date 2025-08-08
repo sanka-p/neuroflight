@@ -10,3 +10,6 @@
 [submodule "tools/PX4-Autopilot"]
 	path = tools/PX4-Autopilot
 	url = git@github.com:PX4/PX4-Autopilot.git
+[submodule "tools/riscv-gnu-toolchain"]
+	path = tools/riscv-gnu-toolchain
+	url = https://github.com/riscv/riscv-gnu-toolchain

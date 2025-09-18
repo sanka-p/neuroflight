@@ -1,0 +1,37 @@
+CMakeFiles/neuroflight.dir/home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o: \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/rp2_common/pico_runtime/include/pico/runtime.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/common/pico_base_headers/include/pico.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/common/pico_base_headers/include/pico/assert.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/lib/gcc/riscv32-unknown-elf/15.1.0/include/stdbool.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/riscv32-unknown-elf/include/assert.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/riscv32-unknown-elf/include/_ansi.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/riscv32-unknown-elf/include/newlib.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/riscv32-unknown-elf/include/_newlib_version.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/riscv32-unknown-elf/include/sys/config.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/riscv32-unknown-elf/include/machine/ieeefp.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/riscv32-unknown-elf/include/sys/features.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/lib/gcc/riscv32-unknown-elf/15.1.0/include/stdint.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/riscv32-unknown-elf/include/stdint.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/riscv32-unknown-elf/include/machine/_default_types.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/riscv32-unknown-elf/include/sys/_intsup.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/riscv32-unknown-elf/include/sys/_stdint.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/lib/gcc/riscv32-unknown-elf/15.1.0/include/stddef.h \
+ /home/sanka/projects/neuroflight/software/build/generated/pico_base/pico/version.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/common/pico_base_headers/include/pico/config.h \
+ /home/sanka/projects/neuroflight/software/build/generated/pico_base/pico/config_autogen.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/boards/include/boards/pico2.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h \
+ /home/sanka/projects/neuroflight/tools/riscv-gnu-toolchain/build/riscv32-unknown-elf/include/sys/cdefs.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/addressmap.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/rvcsr.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/common/pico_base_headers/include/pico/error.h \
+ /home/sanka/projects/neuroflight/tools/pico/pico-sdk/src/rp2_common/pico_runtime_init/include/pico/runtime_init.h
